@@ -1,7 +1,16 @@
-
-body{
-    background-image:url(fundo-de-aquarela-rosa-pintado-a-mao-detalhado_1048-17039.avifs);
+*{
+margin: 0;
+padding: 0;
 }
 .css{
-    padding-left: 200%px;
+    padding-left: 200%;
+
 }
+.a{
+    width: 100%;
+    height: 500px;
+}
+.loja{
+    background-color: pink;
+}
+
